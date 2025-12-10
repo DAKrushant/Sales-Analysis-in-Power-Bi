@@ -42,11 +42,11 @@ This project uses three Excel/CSV datasets:
 
 ### 2️⃣ Data Cleaning in Power Query Editor
 
-✔ Applied "Use First Row as Header" to fix column names.
-✔ Verified no missing/null values across all datasets.
-✔ Confirmed correct data types (date, text, whole number, decimal).
-✔ Renamed columns for clarity where required.
-✔ Ensured category and product fields were clean and consistent.
+   - Applied "Use First Row as Header" to fix column names.
+   - Verified no missing/null values across all datasets.
+   - Confirmed correct data types (date, text, whole number, decimal).
+   - Renamed columns for clarity where required.
+   - Ensured category and product fields were clean and consistent.
 
 ### 3️⃣ Data Modeling
 #### Created relationships:
@@ -117,10 +117,11 @@ A dedicated Measures Table was created to store all DAX measures neatly.
 
 This project demonstrates a complete Excel → Power BI workflow using real-world business concepts:
 
-✔ Data cleaning in Power Query
-✔ Proper data modelling
-✔ Structured measure table
-✔ Professional dashboard design
-✔ Actionable business insights
+  - Data cleaning in Power Query
+  - Proper data modelling
+  - Structured measure table
+  - Professional dashboard design
+  - Actionable business insights
+
 
 This dashboard helps stakeholders understand sales performance, customer value, and product profitability at a glance.
